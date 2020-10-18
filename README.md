@@ -1,4 +1,4 @@
-# hello_flora
+# This is my "hello_flora" project
 Hello, world! This is my first Machine Learning project and here I will be documenting the process below.
 
 # Iris data set project: OVERVIEW
