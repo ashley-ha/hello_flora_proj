@@ -1,7 +1,7 @@
 # This is my "hello_flora" project
 Hello, world! This is my first Machine Learning project and here I will be documenting the process below.
 
-# Iris data set project: OVERVIEW
+# Project: OVERVIEW
 - The iris dataset contains the following data
   - 50 samples of 3 different species of iris (150 samples total)
 - Measurements: sepal length, sepal width, petal length, petal width
@@ -58,3 +58,5 @@ use.
   - Using an optimal model tuned by scikit-learn to make predictions on unseen data.
   - Creating a standalone model using the parameters tuned by scikit-learn.
   - Saving an optimal model to file for later use.
+  # C R E D I T vvv
+# Thank you to Jason Brownlee and Machine Learning Master for the Template and coding walkthrough! 
