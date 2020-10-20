@@ -59,4 +59,5 @@ use.
   - Creating a standalone model using the parameters tuned by scikit-learn.
   - Saving an optimal model to file for later use.
   # C R E D I T:
-  - THANK YOU to Jason Brownlee and Machine Learning Mastery for the Template and coding walkthrough! 
+- THANK YOU to Jason Brownlee and Machine Learning Mastery for the Template & coding walkthrough! 
+https://machinelearningmastery.com/ please visit & support here
